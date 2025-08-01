@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar WildeN",
+    "tags": [
+      "Motivation",
+      "Individuality"
+    ],
+    "createdAt": "2024-07-28T18:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "text": "Be kind for those who needed it.",
+    "author": "sufiya",
+    "tags": [
+      "Individuality",
+      "personal"
+    ],
+    "createdAt": "2025-07-28T18:30:00.000Z"
+  }
+]
