@@ -32,7 +32,7 @@ quote-app/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/quote-app.git
+git clone https://github.com/Sufiya14/quote-app.git
 cd quote-app
 ```
 
@@ -77,4 +77,4 @@ Backend runs on: [http://localhost:5000](http://localhost:5000)
 
 ## ✍️ Author
 
-Made with ❤️ by [Sufiya](https://github.com/yourusername)
+Made with ❤️ by [Sufiya](https://github.com/Sufiya14)
