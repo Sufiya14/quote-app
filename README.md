@@ -11,10 +11,10 @@ A simple full-stack application to manage, add, and browse quotes. Built with:
 ## 📸 Screenshots
 
 ### 🏠 Home Page (User Side)
-![User Page](./screenshots/user-view.png)
+![User Page](./screenshot/UserDashboard.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshot/Admin_dashboard.png)
 
 ---
 
